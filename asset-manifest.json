@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/livolin/static/css/main.1350aa60.chunk.css",
+    "main.js": "/livolin/static/js/main.0772e6e2.chunk.js",
+    "main.js.map": "/livolin/static/js/main.0772e6e2.chunk.js.map",
+    "runtime-main.js": "/livolin/static/js/runtime-main.28829fd8.js",
+    "runtime-main.js.map": "/livolin/static/js/runtime-main.28829fd8.js.map",
+    "static/css/2.885cdae4.chunk.css": "/livolin/static/css/2.885cdae4.chunk.css",
+    "static/js/2.e173b39e.chunk.js": "/livolin/static/js/2.e173b39e.chunk.js",
+    "static/js/2.e173b39e.chunk.js.map": "/livolin/static/js/2.e173b39e.chunk.js.map",
+    "index.html": "/livolin/index.html",
+    "precache-manifest.05b561b19f0f95a1440e44093edd1702.js": "/livolin/precache-manifest.05b561b19f0f95a1440e44093edd1702.js",
+    "service-worker.js": "/livolin/service-worker.js",
+    "static/css/2.885cdae4.chunk.css.map": "/livolin/static/css/2.885cdae4.chunk.css.map",
+    "static/css/main.1350aa60.chunk.css.map": "/livolin/static/css/main.1350aa60.chunk.css.map",
+    "static/js/2.e173b39e.chunk.js.LICENSE.txt": "/livolin/static/js/2.e173b39e.chunk.js.LICENSE.txt",
+    "static/media/ask.png": "/livolin/static/media/ask.e78626a1.png",
+    "static/media/banner.jpg": "/livolin/static/media/banner.cee73e7b.jpg",
+    "static/media/comment.jpg": "/livolin/static/media/comment.88242ef2.jpg",
+    "static/media/font-awesome.min.css": "/livolin/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/handbook1.png": "/livolin/static/media/handbook1.951e9446.png",
+    "static/media/handbook2.png": "/livolin/static/media/handbook2.ebc601b2.png",
+    "static/media/handbook3.jpg": "/livolin/static/media/handbook3.9bb06913.jpg",
+    "static/media/handbook4.png": "/livolin/static/media/handbook4.0b436349.png",
+    "static/media/livolin.png": "/livolin/static/media/livolin.44cc6a47.png",
+    "static/media/logo.png": "/livolin/static/media/logo.a6b5be00.png",
+    "static/media/news1.png": "/livolin/static/media/news1.a7be73bf.png",
+    "static/media/news2.png": "/livolin/static/media/news2.3d6b2751.png",
+    "static/media/news3.png": "/livolin/static/media/news3.7dc03787.png",
+    "static/media/App.css": "/livolin/static/media/share4.1af23438.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28829fd8.js",
+    "static/css/2.885cdae4.chunk.css",
+    "static/js/2.e173b39e.chunk.js",
+    "static/css/main.1350aa60.chunk.css",
+    "static/js/main.0772e6e2.chunk.js"
+  ]
+}
